@@ -1,7 +1,7 @@
 # ML-project
 IPL Winning Prediction And Statistical Analysis
 
-This repo contains Project regarding statistical analysis and winner prediction 
+This report contains Project regarding statistical analysis and winner prediction 
 
 model of the IPL data. Here in this model we have done comprehensive analysis
 
